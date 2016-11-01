@@ -7,25 +7,25 @@
 
 /* Sections About */
 .section#about, .section-about i.active {
-	background: #FC0;
+	background: #1ABC9C;
 }
 
 /* Sections Services */
 .section#services, .section-services i.active {
-	background: #AD0;
+	background: #2ECC71;
 }
 
 /* Sections Portfolio */
 .section#folio, .section-folio i.active, .item .item-detail {
-	background: #0CC;
+	background: #3498DB;
 }
 
 /* Sections Blog */
 .section#blog, .section-blog i.active, #blog .item .item-detail {
-	background: #669;
+	background: #E67E22;
 }
 
 /* Sections Contact */
 .section#contact, .section-contact i.active {
-	background: #F33;
+	background: #34495E;
 }
